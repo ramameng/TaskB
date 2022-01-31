@@ -1,0 +1,3 @@
+- This app only convert numbers below quintillion level.
+- For the negative numbers u can add "-" before u add number but no space the number and "-".
+- My approach to make this conversion is i create recursive funciton to check each of the number.
